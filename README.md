@@ -146,6 +146,8 @@ python generar_audios.py
 ```
 
 3. Verás en la carpeta `audios/` los archivos WAV listos para usar en el mini contador: `sumar.wav`, `restar.wav` y `borrar.wav`.
+   
+<img width="1133" height="670" alt="generandoAUDIOS" src="https://github.com/user-attachments/assets/602229de-a7a1-4b7e-90ee-d09990239a3d" />
 
 > Este método asegura que los audios tengan **la misma voz y estilo** que queremos, con claridad y volumen adecuado para probar los comandos del ejemplo.
 
@@ -262,8 +264,16 @@ python main.py
 3. Verás un contador grande en pantalla.  
 4. Dicta los comandos `"sumar"`, `"restar"` o `"borrar"`.  
 5. El número cambiará en pantalla y reproducirá un audio de confirmación.
+   
+<img width="1365" height="714" alt="contadorVOZ" src="https://github.com/user-attachments/assets/b89c4006-1280-42cd-bfdd-1e45f5b58783" />
 
 ---
+
+## 📌 Un equeño video mostrando como funciona:
+
+https://youtu.be/3IOtyOo15Ac
+
+[![Título del video](https://img.youtube.com/vi/3IOtyOo15Ac/0.jpg)](https://youtu.be/3IOtyOo15Ac)
 
 ## 📌 Consideraciones
 
